@@ -53,7 +53,6 @@ torch==2.7.1+cu118
 torchaudio==2.7.1+cu118
 torchvision==0.22.1+cu118
 tqdm==4.67.1
-typing==3.7.4.3
 typing_extensions==4.12.2
 urllib3==2.5.0
 webrtcvad==2.0.10
